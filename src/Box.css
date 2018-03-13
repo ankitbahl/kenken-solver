@@ -1,0 +1,29 @@
+input {
+    height: 2rem;
+    width: 2rem;
+    text-align: center;
+}
+
+.line {
+    background: lightgray;
+}
+.line:hover {
+    background: grey;
+}
+.horizontal {
+    width: 38px;
+    height: 4px;
+}
+
+.vertical {
+    width: 4px;
+    height: 38px;
+}
+
+.clicked {
+    background: grey;
+}
+
+.left-margin {
+    margin-left: 4px;
+}

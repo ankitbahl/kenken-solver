@@ -1,0 +1,10 @@
+.App {
+  display: inline-block;
+}
+.space {
+  height: 10rem;
+  width: 10rem;
+}
+.sideways {
+  display: flex;
+}
